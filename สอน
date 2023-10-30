@@ -1,5 +1,8 @@
 ยิงเบอร์70api
- โหลด pydroid 3 ลิ้งค์: https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
+
+สิ่งที่ต้องใช้
+ โหลด pydroid 3 (ก๊อปลิ้งเเละไปวางในเบราว์เซอร์) ลิ้งค์: https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
+ โหลดไฟล์ main.py ที่ให้ไป
 
 สอนรัน
 1.กด3ขีดมุมบนซ้าย
@@ -16,3 +19,7 @@ python Gay.py
 วิธีการใช้
 1.พิมเบอร์ที่จะยิง   (กดEnter)
 2.พิมจำนวนที่จะยิง  (กดEnter)
+
+หวังว่าจะละเอียดพอเเล้วนะครับ-_-
+ใครที่ยังใช้ไม่เป็นทักเฟส https://www.facebook.com/profile.php?id=100050702930563&mibextid=ZbWKwL
+ก๊อปลิ้งเเละไปวางในเบราว์เซอร์ เเอด+ทัก
