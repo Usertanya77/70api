@@ -3,11 +3,13 @@
 
 สอนรัน
 1.กด3ขีดมุมบนซ้าย
+2.กดคำว่าTerminal
 2.พิมหรือตัดลอก
 pip install requests
 pip install bs4
 pip install user_agent
 cd storage/downloads/main.py
+python Gay.py
      
 (กดEnter)
 
